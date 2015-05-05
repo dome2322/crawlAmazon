@@ -6,3 +6,5 @@ crawl content from Amazon website,such as image,text.
 2.start with main.py
 
 3.warning:the "\\" or '/' with windos OS or MAC OS.
+
+4.need an UGI
